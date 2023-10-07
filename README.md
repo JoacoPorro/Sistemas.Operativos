@@ -7,7 +7,7 @@
 * [Otroa 2022](https://github.com/gcc-cdimatteo/Sistemas-Operativos-75.08/tree/main/PARCIALES)
 
 ### Links:
-* [Buen Notion con resuemnes y resueltos](https://fiuba-informatica.notion.site/75-08-Sistemas-Operativos-SisOp-66559405933647668d06c9c686abe1ef)
+* [Buen Notion con resumenes y resueltos](https://fiuba-informatica.notion.site/75-08-Sistemas-Operativos-SisOp-66559405933647668d06c9c686abe1ef)
 
 ### Deja ⭐ Arriba
 ### Viva la Libertad Carajo!
