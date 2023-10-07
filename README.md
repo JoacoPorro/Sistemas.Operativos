@@ -1,8 +1,8 @@
 # Material Sistemas Operativos FIUBA
 ###### Drives --> repos.libertarias@gmail.com
 
-### Repos:
-* https://github.com/GabrielHak/SistemasOperativos
+### Parcialitos:
+* [Shell]()
 
 ### Deja ⭐ Arriba
 ### Viva la Libertad Carajo!
